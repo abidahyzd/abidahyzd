@@ -1,7 +1,7 @@
 ## Hello, you can call me Abidah! 👋
 ### Information Systems Graduate • Systems & Data Lifecycle Practitioner • Exploring Digital IC Design
 
-[LinkedIn](https://linkedin.com) &nbsp;|&nbsp; ✉️ **Email:** [abidah.yazid@gmail.com](mailto:abidah.yazid@gmail.com)
+[LinkedIn](https://linkedin.com) &nbsp;|&nbsp; 📩 **Email:** [abidah.yazid@gmail.com](mailto:abidah.yazid@gmail.com)
 
 </div>
 
