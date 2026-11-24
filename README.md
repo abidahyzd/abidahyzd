@@ -19,19 +19,9 @@ I am an analytical **Information Systems Management** graduate with a strong fou
 
 ### 🛠️ Tech Stack & Tools
 
-**Programming & Scripting**
-![Python](https://shields.io)
-![Pandas](https://shields.io)
-![C++](https://shields.io)
-![Bash](https://shields.io)
-![Linux](https://shields.io)
-![MySQL](https://shields.io)
-
-**Analytics, EDA & Environments**
-![Power BI](https://shields.io)
-![VS Code](https://shields.io)
-![EDA Tools](https://shields.io)
-![3D Modeling](https://shields.io)
+* **Programming & Scripting:** `Python` `Pandas` `Matplotlib` `C++` `Bash` `Tcl` `SQL / MySQL`
+* **EDA & Operating Systems:** `Synopsys VCS` `Design Compiler` `IC Compiler II` `PrimeTime` `RHEL / Rocky Linux` `vi`
+* **Analytics & Modeling:** `Microsoft Power BI` `Power Query` `Visual Studio Code` `Laragon` `Coohom (2D/3D)`
 
 ---
 
