@@ -1,4 +1,4 @@
-## Hi there, you can call me Abidah! 👋
+## Hello, you can call me Abidah! 👋
 ### Information Systems Graduate • Systems & Data Lifecycle Practitioner • Exploring Digital IC Design
 
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/abidah-yazid)
