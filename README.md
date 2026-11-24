@@ -1,5 +1,5 @@
 ## Hi there, you can call me Abidah! 👋
-### Information Systems Graduate • Data Analytics & Scripting • Exploring Digital IC Design
+### Information Systems Graduate • Systems & Data Lifecycle Practitioner • Exploring Digital IC Design
 
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/abidah-yazid)
 [![Email](https://shields.io)](mailto:abidah.yazid@gmail.com)
